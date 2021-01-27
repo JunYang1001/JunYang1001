@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?JunYang1001=anuraghazra)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?JunYang1001=anuraghazra&repo=github-readme-stats)](https://github.com/JunYang1001/github-readme-stats)
