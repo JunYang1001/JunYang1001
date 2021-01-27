@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://visitor-badge.glitch.me/badge?page_id=JunYang1001)
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?JunYang1001=anuraghazra&repo=github-readme-stats)](https://github.com/JunYang1001/github-readme-stats)
