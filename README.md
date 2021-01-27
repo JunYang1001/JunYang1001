@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 ![](https://visitor-badge.glitch.me/badge?page_id=JunYang1001)
 
 -![XR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JunYang1001&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
 -![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunYang1001)
 
