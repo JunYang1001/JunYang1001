@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/JunYang1001/JunYang1001/assets/32286492/f7fa8420-4b60-4fb4-944a-13105b9af60d)
 
 https://www.freecodecamp.org/certification/zhangjunyang/foundational-c-sharp-with-microsoft
 
